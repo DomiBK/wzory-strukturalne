@@ -1,0 +1,1 @@
+# wzory-strukturalne
